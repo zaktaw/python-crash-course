@@ -34,3 +34,6 @@ elif (score <= score_middels):
     print("Du fikk karakteren 'MIDDELS'")
 else:
     print("Du fikk karakteren 'GOD'")
+
+
+
